@@ -162,6 +162,34 @@ User-facing commands:
 
 The addon also retains several technical diagnostic/calibration commands from the development lineage; they are shown by `/ct help` where applicable.
 
+## Screenshots
+
+These screenshots show the configurable 3D and 2D effects, the independent Cursor Halo layer, and the Russian and English settings interfaces.
+
+### Russian interface
+
+**Spectral Square** — a square cursor halo using the built-in multicolor spectral gradient.
+
+![Russian interface — Spectral Square](screenshots/01-ru-spectral-square.png)
+
+**Spectral Circle** — the circular halo shape with the spectral style enabled.
+
+![Russian interface — Spectral Circle](screenshots/02-ru-spectral-circle.png)
+
+**2D Swirl** — an independent 2D cursor effect that can be used separately or together with other visual layers.
+
+![Russian interface — 2D Swirl](screenshots/03-ru-2d-spiral.png)
+
+**3D effects list** — the expanded 3D selector with Sphere — Orange selected.
+
+![Russian interface — Sphere Orange](screenshots/04-ru-orange-sphere.png)
+
+### English interface
+
+**Spectral Circle and Electric 3D effect** — the English settings interface with the halo and 3D layers configured together.
+
+![English interface](screenshots/05-en-ui.png)
+
 ## Installation
 
 1. Download the prepared release archive from **GitHub Releases**.
