@@ -6,8 +6,6 @@
 
 It preserves the original Legion-compatible CursorTrail foundation while adding and adapting functionality from later CursorTrail releases, expanding the configuration UI, visual effects, cursor halo system, profiles, localization, and Legion 7.3.5 compatibility behavior.
 
-> This is not a UWoW-exclusive addon. Development and testing were performed primarily on the **UWoW x1** server, but the addon is intended for the **World of Warcraft: Legion 7.3.5 client in general**.
-
 ## Compatibility
 
 - **World of Warcraft: Legion 7.3.5**
