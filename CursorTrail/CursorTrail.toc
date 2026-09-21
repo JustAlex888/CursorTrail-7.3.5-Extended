@@ -1,0 +1,18 @@
+## Interface: 70300
+## Title: CursorTrail 7.3.5 Extended
+## Notes: Based on CursorTrail by UppyDan (DJU). Extended adaptation for World of Warcraft: Legion 7.3.5.
+## Notes-ruRU: На основе CursorTrail от UppyDan (DJU). Расширенная адаптация для World of Warcraft: Legion 7.3.5.
+## Author: UppyDan (DJU)
+## Version: 1.0.0
+## X-Original-Version: 7.3.5.1
+## X-Adaptation: World of Warcraft: Legion 7.3.5 Extended
+## X-Adapted-By: JustAlex888
+## SavedVariables: CursorTrail_ProfilesDB
+## SavedVariablesPerCharacter: CursorTrail_PlayerConfig
+
+CursorTrailLocale.lua
+CursorTrail.lua
+CursorTrailTrails.lua
+CursorTrailShapes.lua
+CursorTrailConfig.lua
+CursorTrailTools.lua
